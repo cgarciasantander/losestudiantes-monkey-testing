@@ -1,0 +1,16 @@
+{
+  "name": "losestudiantes-monkey-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.2.0",
+    "faker": "^5.5.3"
+  }
+}
